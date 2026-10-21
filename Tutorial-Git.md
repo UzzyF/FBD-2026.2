@@ -1,6 +1,4 @@
-# Tutorial de Git para projeto em equipe (4 pessoas)
-
-Guia prático para usar Git e GitHub como em um projeto real, pensado para o projeto da disciplina de Fundamentos de Bancos de Dados.
+# Tutorial de Git para projeto em equipe
 
 ## 1. Conceitos básicos
 
