@@ -22,17 +22,9 @@ git config --global init.defaultBranch main
 
 Use o mesmo e-mail da conta do GitHub, para que seus commits apareçam com seu nome.
 
-## 3. Criando o projeto (só uma pessoa faz isso)
-
-1. No GitHub, clique em **New repository**, dê um nome (ex: `projeto-bd`) e marque "Add a README" e um `.gitignore`.
-2. Vá em **Settings → Collaborators** e adicione as outras 3 pessoas.
-3. Em **Settings → Branches**, crie uma regra para a `main` exigindo Pull Request antes de juntar. Assim ninguém sobrescreve o trabalho dos outros por acidente.
-
-Os outros 3 aceitam o convite (chega por e-mail) e clonam o projeto:
-
 ```bash
-git clone https://github.com/USUARIO/projeto-bd.git
-cd projeto-bd
+git clone https://github.com/UzzyF/FBD-2026.2.git
+cd FBD-2026.2
 ```
 
 ## 4. O fluxo de trabalho diário
